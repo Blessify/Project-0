@@ -1,0 +1,1 @@
+My project0 is about symbolisms of four elemnts of nature. This Project contain one main file (index.html) plus four other files with short descriptions of all elemnts. Also there is one scss file converted by scss to css.
